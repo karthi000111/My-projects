@@ -1,0 +1,10 @@
+{
+  "name": "question-paper-paattern-analysis-record-tools",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Record-only dynamic analysis reporting scripts for documentation.",
+  "scripts": {
+    "dynamic:fail": "node dynamic-analysis-report.js fail",
+    "dynamic:pass": "node dynamic-analysis-report.js pass"
+  }
+}
